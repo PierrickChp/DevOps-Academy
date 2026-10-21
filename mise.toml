@@ -1,0 +1,10 @@
+[tools]
+
+awscli = "2.38"
+go = "1.27"
+helm = "4.3"
+kind = "0.33"
+kubectl = "1.37"
+node = "24"
+python = "3.13"
+terraform = "1.16"
